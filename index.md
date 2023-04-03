@@ -93,7 +93,7 @@ Training.
 ## Certificates
 
 `2017`
-Offensive Security Certified Professional certification
+**Offensive Security Certified Professional**, OS-101-017187 
 
 ## Languages
 
