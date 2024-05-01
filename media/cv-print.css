@@ -156,7 +156,7 @@ h3 {
 
 a {
 	color: inherit;
-	text-decoration:none
+	/* text-decoration:none */
 }
 
 a:hover {
@@ -167,7 +167,8 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	/* color: #ccc; */
+	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 90%;
 }

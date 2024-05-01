@@ -26,9 +26,10 @@ During my time at SensePost I have performed various tasks such as:
 
  * Built and presented training at multiple security conferences. Including a wireless course using Docker, Terraform, and Ansible. 
  * Presented research at multiple security conferences. Most recently on wireless and challenge response authentication schemes. 
- * Conducted security assessments for a broad range of customers and systems. Including Cloud configurations, Banking systems, Web applications, and Internal Networks
- * Creation of attack tooling and infrastructure such as setting up C2s, phishing infrastructure, lab environments, and relays/reverse proxies. 
- * Modifying or creating tooling to bypass security controls or perform attacks. 
+ * Conducted security assessments for a broad range of customers and systems. Including Cloud configurations, Banking systems, Web applications, Mobile applications, and Internal Networks
+ * Creation of attack tooling and infrastructure such as setting up C2s, phishing infrastructure, scripts, lab environments, and relays/reverse proxies. 
+ * Modified and understood existing tooling in order to achieve a goal. 
+ * Given training at various conferences such as BlackHat.
 
 ## Contributions
 
@@ -68,7 +69,7 @@ I enjoy presenting at conferences and tool building. I have also built and prese
 
 ## Technical Skills
 
-Programming Languages: Python, Golang, C
+Preferred Programming Languages: Python, Golang, C
 
 Cloud: AWS, Docker, Kubernetes
 
