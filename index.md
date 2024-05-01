@@ -14,7 +14,7 @@ Researcher/Senior Analyst at Orange Cyberdefense
 ## Experience
 
 `2021-Current`
-**Senior Analyst/Researcher**, *Orange Cyberdefense, SensePost Team*, South Africa.
+**Senior Analyst/Researcher**, *Orange Cyberdefense, SensePost Team*, United Kingdom.
 
 `2017-2020`
 **Lead Analyst**, *Orange Cyberdefense, SensePost Team*, South Africa.
