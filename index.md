@@ -69,18 +69,18 @@ I enjoy presenting at conferences and tool building. I have also built and prese
 
 ## Technical Skills
 
-Preferred Programming Languages: Python, Golang, C
+**Preferred Programming Languages**: Python, Golang, C
 
-Cloud: AWS, Docker, Kubernetes
+**Cloud**: AWS, Docker, Kubernetes
 
-CI/CD: GitHub Actions, Azure Pipelines
+**CI/CD**: GitHub Actions, Azure Pipelines
 
-Penetration Testing Experience: Mobile Applications, Web Applications, Internal Networks, External Infrastructure, Cloud Configurations (Azure, AWS,
+**Penetration Testing Experience**: Mobile Applications, Web Applications, Internal Networks, External Infrastructure, Cloud Configurations (Azure, AWS,
 GCP), Kubernetes, Wireless, Red Teaming, and Purple Teaming
 
-Infrastructure: Linux and Windows
+**Infrastructure**: Linux and Windows
 
-Training.
+**Training Courses**: Wireless hacking, Web Application hacking, Infrastructure hacking
 
 ## Education
 
