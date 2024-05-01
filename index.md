@@ -3,7 +3,7 @@ layout: cv
 title: Michael Kruger
 ---
 # Michael Kruger
-Researcher/Senior Analyst at Orange Cyberdefense
+<!-- Researcher/Senior Analyst at Orange Cyberdefense -->
 
 <div id="webaddress">
   <a href="https://github.com/cablethief"><i class="fab fa-github"></i> github.com/cablethief</a><br>
