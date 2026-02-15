@@ -13,7 +13,11 @@ title: Michael Kruger
 
 ## Experience
 
-`2021-Current`
+
+`2025-Current`
+**Senior Threat Detection Engineer**, *Bumble Inc*, United Kingdom.
+
+`2021-2025`
 **Senior Analyst/Researcher**, *Orange Cyberdefense, SensePost Team*, United Kingdom.
 
 `2017-2020`
